@@ -6,3 +6,4 @@
 - [2026-04-26T19:09:22Z] refactor: clean up unused imports
 - [2026-04-26T16:28:28Z] chore: remove deprecated API calls
 - [2026-04-26T14:50:24Z] docs: update README with usage examples
+- [2026-04-26T15:28:00Z] chore: remove deprecated API calls
